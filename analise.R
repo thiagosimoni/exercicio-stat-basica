@@ -11,7 +11,7 @@ mean(x)
 x <- c(10, 20, 30, 40, 50)
 mean(x)
 
-# Nova linha: soma dos valores
+# Nova linha: soma
 sum(x)
 
 
