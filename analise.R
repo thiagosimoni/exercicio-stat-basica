@@ -6,14 +6,14 @@ x <- c(1,2,3)
 x <- c(10, 20, 30, 40, 50)
 mean(x)
 
-# Modificando o arquivo de novo
+# Modificando o arquivo de novooo
 
-x <- c(10, 20, 30, 40)
+x <- c(10, 20, 30)
 median(x)
 
 # Nova linha: soma valores
 sum(x)
 
 #branch experimento
-git checkout -b experimento
+
 
