@@ -9,9 +9,11 @@ mean(x)
 # Modificando o arquivo
 
 x <- c(10, 20, 30, 40, 50)
-mean(x)
+median(x)
 
-# Nova linha: soma
+# Nova linha: soma valores
 sum(x)
 
+#branch experimento
+git checkout -b experimento
 
