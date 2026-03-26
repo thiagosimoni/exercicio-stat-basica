@@ -8,7 +8,7 @@ mean(x)
 
 # Modificando o arquivo de novo
 
-x <- c(10, 20, 30, 40, 50)
+x <- c(10, 20, 30, 40)
 median(x)
 
 # Nova linha: soma valores
