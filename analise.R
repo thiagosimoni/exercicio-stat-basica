@@ -17,3 +17,4 @@ sum(x)
 #branch experimento
 
 
+# https://github.com/thiagosimoni/exercicio-stat-basica 
